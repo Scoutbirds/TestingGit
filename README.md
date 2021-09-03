@@ -10,12 +10,12 @@ This is the workshop
 ## Name
 Jorge Leon
 
-'''java
+```java
 
 String str = "Hello World"
 
 System.out.println(str)
-
+```
 
 # Big boy
 
