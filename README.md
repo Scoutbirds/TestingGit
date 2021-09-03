@@ -1,0 +1,3 @@
+This is the new content of the readme
+
+I'm cool
